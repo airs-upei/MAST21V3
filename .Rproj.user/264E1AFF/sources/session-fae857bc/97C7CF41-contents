@@ -62,7 +62,7 @@ deploy_MAST21V3_2024 <- function(
                                                                                            headphones = TRUE,
                                                                                            get_instrument_range = FALSE,
                                                                                            SNR_test = TRUE,
-                                                                                           absolute_url = absolute_url
+                                                                                           absolute_url = character()
                                                                                            )
     )
   )

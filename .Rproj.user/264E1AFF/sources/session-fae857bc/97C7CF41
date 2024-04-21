@@ -3,7 +3,7 @@
     "path": "~/RProjects/MAST21V3/R/main.R",
     "project_path": "R/main.R",
     "type": "r_source",
-    "hash": "3034000007",
+    "hash": "120529169",
     "contents": "",
     "dirty": false,
     "created": 1713670125274.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,33",
-        "scrollLine": "0"
+        "cursorPosition": "64,116",
+        "scrollLine": "41"
     },
     "folds": "99|3|143|0|\n",
-    "lastKnownWriteTime": 1713677614,
+    "lastKnownWriteTime": 1713678970,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713677614763,
+    "last_content_update": 1713678970851,
     "read_only": false,
     "read_only_alternatives": []
 }
