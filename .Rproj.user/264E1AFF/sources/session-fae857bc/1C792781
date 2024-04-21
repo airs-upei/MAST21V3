@@ -1,0 +1,26 @@
+{
+    "id": "1C792781",
+    "path": "~/RProjects/MAST21V3/R/MAST_helpers.R",
+    "project_path": "R/MAST_helpers.R",
+    "type": "r_source",
+    "hash": "1305257821",
+    "contents": "",
+    "dirty": true,
+    "created": 1713670058080.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "636,0",
+        "scrollLine": "550"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1713670899,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1713671128199,
+    "read_only": false,
+    "read_only_alternatives": []
+}

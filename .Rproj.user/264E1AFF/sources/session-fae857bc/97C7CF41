@@ -1,0 +1,26 @@
+{
+    "id": "97C7CF41",
+    "path": "~/RProjects/MAST21V3/R/main.R",
+    "project_path": "R/main.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1713670125274.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "92,13",
+        "scrollLine": "26"
+    },
+    "folds": "27|3|70|0|\n99|3|143|0|\n",
+    "lastKnownWriteTime": 1713670437,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1713670994088,
+    "read_only": false,
+    "read_only_alternatives": []
+}
