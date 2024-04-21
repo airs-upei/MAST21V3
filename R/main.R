@@ -58,12 +58,12 @@ deploy_MAST21V3_2024 <- function(
                                          midi_input = data_collection_method == "midi",
                                          record_audio = data_collection_method == "audio",
                                          musicassessr_aws = musicassessr_aws,
-                                         setup_options = musicassessr::setup_pages_options(input_type = if(data_collection_method == "midi") "midi_keyboard" else if(data_collection_method == "audio") "microphone" else "key_presses",
+                                         setup_options =  musicassessr::setup_pages_options(input_type = if(data_collection_method == "midi") "midi_keyboard" else if(data_collection_method == "audio") "microphone" else "key_presses",
                                                                                            headphones = TRUE,
                                                                                            get_instrument_range = FALSE,
                                                                                            SNR_test = TRUE,
-                                                                                           absolute_url = character(),
-                                                                                           concise_wording = TRUE)
+                                                                                           absolute_url = character()
+                                                                                           )
     )
   )
 
