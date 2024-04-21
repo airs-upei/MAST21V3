@@ -20,7 +20,7 @@ deploy_MAST21V3_2024 <- function(
     app_name = paste("UPEI ", format(Sys.Date(), "%Y"), " Study"),
     language,
     musicassessr_aws = FALSE,
-    # absolute_url = "https://musicog.ca/",
+    absolute_url = "https://musicog.ca/",
     data_collection_method = "audio",
     get_p_id = FALSE,
     final_qualtrics_url = 'https://upeiairs.qualtrics.com/jfe/form/SV_5vDAjJhxLqZw7Km?participant=',
@@ -31,7 +31,7 @@ deploy_MAST21V3_2024 <- function(
 
   after_tl <- after_setup(
     get_p_id = get_p_id,
-    # absolute_url = absolute_url,
+    absolute_url = absolute_url,
     data_collection_method = data_collection_method,
     final_qualtrics_url = final_qualtrics_url,
     language = language
@@ -62,7 +62,7 @@ deploy_MAST21V3_2024 <- function(
                                                                                            headphones = TRUE,
                                                                                            get_instrument_range = FALSE,
                                                                                            SNR_test = TRUE,
-                                                                                           absolute_url = character()
+                                                                                           absolute_url = absolute_url
                                                                                            )
     )
   )
